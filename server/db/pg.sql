@@ -47,12 +47,6 @@ create table QuizUser
 );
 
 
-INSERT INTO weka.person(username, passwd) VALUES('Barrez', 'barrez');
-INSERT INTO weka.person(username, passwd) VALUES('Boudali', 'boudali');
-INSERT INTO weka.person(username, passwd) VALUES('Huret', 'huret');
-INSERT INTO weka.person(username, passwd) VALUES('Kerkhove', 'kerkhove');
-INSERT INTO weka.person(username, passwd) VALUES('Vennat', 'vennat');
-
 INSERT INTO weka.quiz (label_keyword, label_quiz, picture) VALUES ('chimie', 'Chimie', 'chimie.png');
 INSERT INTO weka.quiz (label_keyword, label_quiz, picture) VALUES ('sport', 'Sport', 'sport.png');
 
