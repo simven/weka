@@ -1,0 +1,48 @@
+.reponse {
+    margin-bottom: 15px;
+}
+
+.question {
+    margin-bottom : 20px;
+    margin-top : 15px;
+}
+
+.myButton {
+    margin-top: 50px;
+}
+
+.button {
+    margin-bottom : 20px;
+    margin-top : 10px;
+}
+
+.form-quiz {
+   width: 800px;
+   height: 100%;
+   padding: 2em;
+   margin: 0 auto;
+}
+
+.quiz-create-container-element {
+    width: 100%;
+}
+
+.form-quiz-container {
+    box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    margin: 40px auto;
+    border-radius: 10px;
+    padding: 2em;
+    position: relative;
+}
+
+.form-submit-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+    width: 200px;
+}
